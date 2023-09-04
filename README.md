@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TokenFlow-colab/blob/main/TokenFlow_colab.ipynb) | TokenFlow_colab
 
 ## Main Repo
-https://github.com/omerbt/TokenFlow
-https://huggingface.co/spaces/weizmannscience/tokenflow/tree/main
+https://github.com/omerbt/TokenFlow <br />
+https://huggingface.co/spaces/weizmannscience/tokenflow/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2307.10373
