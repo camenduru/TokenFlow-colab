@@ -19,4 +19,4 @@ https://arxiv.org/abs/2307.10373
 https://diffusion-tokenflow.github.io/
 
 ## Output
-
+https://github.com/camenduru/TokenFlow-colab/assets/54370274/457406f1-7a05-4cfb-b000-05adbd258dfc
