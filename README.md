@@ -11,6 +11,7 @@
 ## Main Repo
 https://github.com/omerbt/TokenFlow <br />
 https://huggingface.co/spaces/weizmannscience/tokenflow/tree/main <br />
+https://github.com/huggingface/diffusers <br />
 
 ## Paper
 https://arxiv.org/abs/2307.10373
